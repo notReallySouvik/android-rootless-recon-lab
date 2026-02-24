@@ -3,7 +3,7 @@
 A structured, modular penetration testing laboratory built on a rootless Debian environment running on Android.  
 This project provides an academic and practical framework for setting up, organizing, automating, and documenting security tools within a controlled lab environment.
 
----
+
 
 ## 1. Overview
 
@@ -17,7 +17,7 @@ The Android Rootless Recon Lab is designed to:
 
 This repository is intended for **educational and research purposes only**.
 
----
+
 
 ## 2. Objectives
 
@@ -29,7 +29,7 @@ The primary goals of this project are:
 4. To document architectural decisions and system limitations academically.
 5. To provide a scalable framework for future expansion.
 
----
+
 
 ## 3. Repository Structure
 
@@ -108,7 +108,7 @@ Visual references of:
 - Tool execution
 - GUI configuration (if applicable)
 
----
+
 
 ## 4. System Architecture (High-Level)
 
@@ -126,7 +126,7 @@ The architecture prioritizes:
 - Scalability
 - Maintainability
 
----
+
 
 ## 5. Tool Categorization
 
@@ -148,7 +148,7 @@ Tools are grouped into structured categories including:
 
 Each category is modular and extendable.
 
----
+
 
 ## 6. Installation Workflow
 
@@ -163,7 +163,7 @@ High-level process:
 
 Detailed instructions are available in the `setup/` directory.
 
----
+
 
 ## 7. Constraints
 
@@ -175,7 +175,7 @@ Detailed instructions are available in the `setup/` directory.
 
 Refer to `docs/04_constraints.md` for detailed analysis.
 
----
+
 
 ## 8. Ethical Use Notice
 
@@ -190,14 +190,14 @@ Unauthorized use of the tools documented here against systems without explicit p
 
 The authors assume no liability for misuse.
 
----
+
 
 ## 9. License
 
 This project is distributed under the MIT License.  
 See the `LICENSE` file for details.
 
----
+
 
 ## 10. Future Work
 
@@ -209,7 +209,7 @@ Planned improvements include:
 - Containerization experiments
 - Performance optimization studies
 
----
+
 
 ## 11. Contribution Guidelines
 
@@ -221,7 +221,7 @@ Contributions should:
 - Include installation and usage documentation
 - Respect licensing constraints of third-party tools
 
----
+
 
 ## 12. Disclaimer
 
@@ -233,7 +233,7 @@ Some referenced tools may be:
 This repository does not redistribute proprietary software.  
 It documents installation and usage procedures only.
 
----
+
 
 ## Author
 
