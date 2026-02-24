@@ -33,15 +33,13 @@ The primary goals of this project are:
 
 ## 3. Repository Structure
 
-android-rootless-recon-lab/
-│
-├── README.md
-├── LICENSE
-├── setup/
-├── tools/
-├── core/
-├── docs/
-└── screenshots/
+- **README.md** — Project overview and usage guide  
+- **LICENSE** — Licensing information  
+- **setup/** — Environment configuration documentation  
+- **tools/** — Categorized tool documentation and usage  
+- **core/** — Automation scripts and control logic  
+- **docs/** — Academic and architectural documentation  
+- **screenshots/** — Visual references of setup and execution
 
 
 ### 3.1 `setup/`
@@ -58,13 +56,18 @@ Contains step-by-step environment setup documentation:
 Category-wise structured documentation of tools.
 
 Each tool is organized into its own directory:
+## Tool Directory Structure
 
-tools/
-└── Category_Name/
-└── tool_name/
-├── README.md
-├── installation.md
-└── usage.md
+Each tool is organized in a modular and expandable format.
+
+Structure:
+
+- tools/
+  - Category_Name/
+    - tool_name/
+      - README.md
+      - installation.md
+      - usage.md
 
 
 Tool documentation includes:
